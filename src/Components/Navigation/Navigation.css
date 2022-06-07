@@ -1,0 +1,25 @@
+.log-reg-button button {
+  width: 120px;
+  border: 0;
+  background: #7865ff;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin-right: 15px;
+  border-radius: 15px;
+  color: #fff;
+  font-weight: 500;
+  padding: 6px 10px;
+}
+.log-reg-button button:hover {
+  background: #ff6f00;
+}
+
+.link {
+  color: aliceblue !important;
+  font-weight: 600 !important;
+  margin-left: 20px;
+}
+.link:hover {
+  color: rgb(3, 31, 56) !important;
+  background: #f1da07;
+  border-radius: 10px;
+}

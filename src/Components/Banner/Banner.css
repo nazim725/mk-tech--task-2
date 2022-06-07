@@ -1,0 +1,33 @@
+.banner {
+  margin-top: 100px;
+  padding-bottom: 50px;
+}
+.banner-pic img {
+  width: 80%;
+  height: 320px;
+  padding: 30px;
+  margin-left: 70px;
+  border-radius: 16px !important;
+}
+.banner-info {
+  background: #132347;
+  height: 320px;
+  padding: 30px;
+  border-radius: 30px;
+}
+.banner-info h2 {
+  color: #ff6f00;
+  padding-top: 60px;
+  line-height: 70px;
+  text-align: center;
+}
+
+.banner-pic {
+  background: #132347;
+  border-radius: 30px;
+}
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+  filter: invert(100%);
+  font-size: 100px;
+}

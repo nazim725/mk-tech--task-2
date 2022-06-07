@@ -1,0 +1,57 @@
+.download {
+  margin-bottom: 50px;
+}
+.download-heading {
+  background: #644f9c;
+  text-align: center;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset,
+    rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+    rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px,
+    rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px,
+    rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  padding-bottom: 30px;
+}
+.download-heading h5 {
+  font-weight: bold;
+}
+.download-heading img {
+  height: 100px;
+  width: 200px;
+}
+
+.download-info {
+  margin-top: 20px;
+}
+.download-info i {
+  color: cyan;
+  margin-right: 10px;
+}
+.download-info p {
+  background: #0487b3;
+  padding: 5px 5px;
+  /* border: 1px solid; */
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset,
+    rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+    rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px,
+    rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px,
+    rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.download-info p a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.download-button button {
+  width: 100%;
+  margin-top: 20px;
+  border-radius: 17px;
+  background: #644f9c;
+  color: #fff;
+  font-weight: bold;
+  padding: 7px 15px;
+}
+.download-button button:hover {
+  background: #ff6f00;
+}

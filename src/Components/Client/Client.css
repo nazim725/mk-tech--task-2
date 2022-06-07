@@ -1,0 +1,77 @@
+.client-heading {
+  background: #5d0aacde;
+  text-align: center;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset,
+    rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+    rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px,
+    rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px,
+    rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  padding-bottom: 30px;
+}
+.research-heading {
+  background: #0d7736de;
+  text-align: center;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset,
+    rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+    rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px,
+    rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px,
+    rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  padding-bottom: 30px;
+}
+.client-heading h5 {
+  font-weight: bold;
+}
+
+.research-info p {
+  background: #0487b3;
+  padding: 5px 5px;
+  /* border: 1px solid; */
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset,
+    rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+    rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px,
+    rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px,
+    rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.client-info p {
+  background: #9a17e6;
+  padding: 5px 5px;
+  /* border: 1px solid; */
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset,
+    rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+    rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px,
+    rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px,
+    rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.research-heading h5 {
+  font-weight: bold;
+}
+.client-heading img {
+  height: 100px;
+  width: 200px;
+}
+.research-heading img {
+  height: 100px;
+  width: 200px;
+}
+
+.research-info p a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.research-info i {
+  color: cyan;
+  margin-right: 10px;
+}
+.client-info p a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.client-info i {
+  color: cyan;
+  margin-right: 10px;
+}
